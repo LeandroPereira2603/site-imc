@@ -5,7 +5,7 @@
  * tabela 
  * fórmula imc = peso / (altura x altura)
 
-[!Warning]
+> [!Warning]
 > Refaturar o código
 
 #*Lista para melhorias do site ;**
