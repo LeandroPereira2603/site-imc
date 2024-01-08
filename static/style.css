@@ -1,0 +1,118 @@
+body{
+
+    margin: 30px 0px 0px 0px ;
+    background-color: beige;
+}
+
+
+table {
+  
+    margin: auto auto 30px;
+    width: 500px;
+    background-color: rgb(84, 29, 29);
+
+
+    border: 1px solid black;
+   
+}
+td{
+   
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+}
+.td-left{
+ 
+    background-color: brown;
+}
+
+.td-right{
+    color:white;
+    
+    background-color: chocolate;  
+}
+
+
+.td-titulo{
+    background-color: black;  
+    color: white;
+  
+}
+td:hover{
+    opacity: 0.9;
+    color: white;
+    cursor: pointer;
+}
+
+.container{
+    border: 1px solid black;
+    padding-top: 10px;
+    margin: auto;
+    width: 500px;
+background-color: brown;
+
+}
+.form{
+padding-top: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+    
+}
+input{
+    margin-left: 3px;
+    margin-right: 10px;
+    height: 20px;
+    font-size: 20px;
+    width: 80px;
+    text-align: center;
+    font-weight: bold;
+    color:rgb(95, 9, 9) ;
+}
+.botao{
+    height: 28px;
+    width: auto;
+    background-color: green;
+    color: white;
+ 
+}
+ .botao:active{
+     cursor: pointer;
+     animation: cor 0.6s linear;
+
+}
+.botao:hover{
+ 
+    cursor: pointer;
+
+}
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color:white;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+.container-imc{
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+
+@keyframes cor{
+    from{
+        opacity: 0.85;
+        background-color: rgb(0, 84, 0);
+    }
+    to{
+        opacity: 1;
+        background-color: rgb(0, 44, 0);
+    }
+}
