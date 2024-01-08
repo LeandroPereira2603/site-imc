@@ -1,9 +1,12 @@
 
- ## site IMC
- * estrutura if de decisão
- * função botao(); 
- * tabela 
- * fórmula imc = peso / (altura x altura)
+ ## Site IMC
+
+### Sobre o site 
+
+ * Estrutura : If 
+ * Função : botao(); 
+ * Tabela 
+ * Fórmula imc = peso / (altura x altura)
 
 > [!Warning]
 > Refaturar o código
