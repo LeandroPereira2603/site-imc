@@ -13,6 +13,6 @@
 
 **Lista para melhorias do site :**
 
-- [ ] Layout para dispositivo celular 
-- [ ] A cor da caixa do texto esta poluida com a imagem. 
+- [x] Layout para dispositivo celular 
+- [x] A cor da caixa do texto esta poluida com a imagem. 
 
